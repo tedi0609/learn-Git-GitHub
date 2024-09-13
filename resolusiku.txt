@@ -1,2 +1,8 @@
-
 Repository untuk menyimpan resolusiku kedepannya
+Learning Path
+-html
+-css
+-git & github
+-js
+-python
+-API
