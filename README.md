@@ -1,1 +1,1 @@
-
+Repository untuk menyimpan resolusiku kedepannya
